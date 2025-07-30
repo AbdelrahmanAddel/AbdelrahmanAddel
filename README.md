@@ -85,7 +85,7 @@ An e-commerce platform for sports products, allowing users to browse items and m
 - User authentication with Firebase Auth
 
 **🧰 Tech Stack:**  
-`Flutter`, `Dart`, `Firebase`, `Cubit`
+`Flutter`, `Dart`, `Firebase`, `Bloc`, `Cubit`, `Rest Api`, `GraphQL` , `Firebase Messaging` , `Flutter ScreenUtil` , `Clean Architecture`, `Hive`
 
 **✅ Challenges Solved:**
 - Designed a responsive UI for various screen sizes  
