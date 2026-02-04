@@ -81,7 +81,7 @@ With hands-on experience in **Clean Architecture**, **Bloc/Cubit state managemen
 ## 🚀 Featured Projects
 
 ### 📈 [CoinGecko – Crypto Tracking App](https://github.com/MohamedNaif/coin_gecko_graduation_project_metorship)
-> Real-time cryptocurrency market tracking platform | **Nov 2025- Dec 2025**
+> Real-time cryptocurrency market tracking platform | **Nov 2025 - Dec 2025**
 
 A collaborative project built with a 3-member team, focusing on **real-time data** and **secure payment integration**.
 
@@ -146,15 +146,6 @@ A healthcare platform integrating **AI recommendations** for symptom analysis an
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAddel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelrahmanAddel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
 ## 🎯 What I'm Learning
 
 - 🔄 **Advanced Flutter Animations** - Creating smooth, performant UI transitions
@@ -175,24 +166,3 @@ A healthcare platform integrating **AI recommendations** for symptom analysis an
 - 📱 **Phone:** +20 111 545 8569
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AbdelrahmanAddel/AbdelrahmanAddel/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/AbdelrahmanAddel">AbdelrahmanAddel</a></i>
-</div>
-
----
-
-## 🔥 My Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdelrahmanAddel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" />
-</div>
-
